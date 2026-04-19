@@ -1,5 +1,3 @@
-# Haskell CLI Todo Manager
-
 A small Haskell command-line application for managing todo items with pure business logic, typed domain modeling, explicit error handling, and JSON persistence.
 
 ## Features
